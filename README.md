@@ -9,6 +9,8 @@ Preparing for the Preparatory Work
 You will need two resources to complete the prep work. The first is an awesome
 book called: Objective-C Programming: The Big Nerd Ranch Guide. It is available
 at Amazon: http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/0321706285
+(there is a newer edition, the second edition, but we are not yet using that,
+buy the first edition).
 
 The other resource is our complimentary license to lynda.com. It's a great site
 with hundreds of professional tutorials, and the videos by Simon Allardice are
