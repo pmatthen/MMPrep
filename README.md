@@ -52,9 +52,13 @@ challenges:
    screenshot for reference:
 
    ![git clone](http://methylblue.com/MM/gitclone2.png)
+   
+   Git *clones* your fork of MMPrep to your computer. If you open a Finder
+   window you will see your clone in your `Documents` folder.
 
 8. Type `cd MMPrep`. This changes the Terminal's directory to the clone you just
-   created.
+   created. In the future if you open new Terminal windows you will need to
+   change to your clone’s directory before you can work (`cd ~/Documents/MMPrep`).
 
 9. In Terminal.app type: `mate Challenge-01.md`
 
