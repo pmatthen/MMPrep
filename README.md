@@ -73,6 +73,11 @@ challenges:
 
 14. In Terminal.app type: `git push origin master`
 
+    Here is a screenshot of what Terminal output you can expect from the above
+    commands:
+
+   ![git clone](http://methylblue.com/MM/gitpush.png)
+
 At any time, type `open .` to open the folder you are in in Finder. Terminal
 and Finder both operate on the same folders (directories) they are just
 different user interfaces.
