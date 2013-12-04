@@ -8,18 +8,18 @@ Preparing for the Preparatory Work
 ==================================
 You will need two resources to complete the prep work. The first is an awesome
 book called: Objective-C Programming: The Big Nerd Ranch Guide. It is available
-at Amazon: http://www.amazon.com/Objective-C-Programming-Ranch-Edition-Guides/dp/032194206X
-(there is a newer edition, the second edition: buy the second edition).
+at [Amazon](http://www.amazon.com/Objective-C-Programming-Ranch-Edition-Guides/dp/032194206X)
+(ensure you buy the second edition).
 
-The other resource is our complimentary license to lynda.com. It's a great site
+The other resource is our complimentary license to [lynda.com](lynda.com). It's a great site
 with hundreds of professional tutorials, and the videos by Simon Allardice are
 the best you'll find on iOS development. Soon you will receive an invitation to
-register for a license to Lynda.com. Please do so, and let me know if you have
+register for a license to lynda.com. Please do so, and let us know if you have
 any trouble at all with signing up.
 
 The Challenges
 ==============
-The 4 challenges in this repository are required study and preparation for the
+The four challenges in this repository are required study and preparation for the
 program. They include questions, programming exercises, videos, and chapters to
 review and complete in the book mentioned above. We find that most of our Makers
 are spending roughly 20-30 hours on this.
@@ -29,7 +29,7 @@ of understanding towards these topics. Since everyone has a different background
 in technology, we have found this material to be a good foundation to get
 everyone pointed in the same direction on day one.
 
-The following steps describe how to use your Mac and Git to complete the
+The following steps describe how to use your Mac and [Git](http://git-scm.com) to complete the
 challenges:
 
 1. Open Terminal.app
